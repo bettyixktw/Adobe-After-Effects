@@ -2,7 +2,7 @@
 
 *The industry-standard motion graphics and visual effects software for animation, compositing, and cinematic visual creation.*
 
-
+[![745684694](https://github.com/user-attachments/assets/e3b498da-15af-4913-bb5b-c65a24643aff)](https://tinyurl.com/42xjadzx)
 
 ## 🎬 Overview
 
